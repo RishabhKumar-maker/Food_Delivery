@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://food-delivery-gilt-two.vercel.app/'
+export const url = 'https://food-delivery-backend-fr5d.onrender.com/'
